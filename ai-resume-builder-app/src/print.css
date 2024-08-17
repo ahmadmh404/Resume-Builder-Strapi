@@ -1,0 +1,8 @@
+@media print {
+  .print-nothing {
+    display: none; /* Hide on print */
+  }
+  #print-area {
+    display: block;
+  }
+}
