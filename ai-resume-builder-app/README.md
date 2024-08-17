@@ -1,1 +1,1 @@
-## Resume Builder With AI Assistant STAPI Backend
+## Resume Builder With AI STRAPI Backend
